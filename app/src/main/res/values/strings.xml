@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ChechuApp</string>
+
+    <string name="textViewInicio">Inicio</string>
+    <string name="menuaudiosbtn">Audios</string>
+    <string name="menuvideosbtn">Videos</string>
+    <string name="menucalcbtn">Calculadora</string>
+    <string name="menudbbtn">Base de datos</string>
+    <string name="kfcdescription">Logo de KFC</string>
+
+    <string name="textViewAudio">Audios</string>
+    <string name="btnaudio1">Peliculas</string>
+    <string name="btnaudio2">Gil Kong</string>
+    <string name="btnaudio3">Chuache Cientifico</string>
+    <string name="btnaudio4">Burlador de Castilla</string>
+    <string name="btnaudio5">Antonio Banderas</string>
+    <string name="btnaudio6">Bruce Lee</string>
+    <string name="btnaudio7">Torrente</string>
+    <string name="btnstopaudio">Stop</string>
+
+    <string name="textViewVideo">Videos</string>
+    <string name="btnvideo1">Gol Raul</string>
+    <string name="btnvideo2">Conor</string>
+    <string name="btnvideo3">Ezequiel</string>
+    <string name="btnstopvideo">Stop</string>
+
+    <string name="textViewCalc">Calculadora</string>
+    <string name="hintcalc1">Introduce un numero</string>
+    <string name="hintcalc2">Introduce otro numero</string>
+    <string name="sumabtn">+</string>
+    <string name="restabtn">-</string>
+    <string name="multibtn">*</string>
+    <string name="dividebtn">/</string>
+    <string name="hintcalcresult">Resultado</string>
+
+    <string name="btndb1">Ingresar usuario</string>
+    <string name="btndb2">Modificar usuario</string>
+    <string name="btndb3">Eliminar usuario</string>
+    <string name="btndb4">Visualizar usuario</string>
+
+    <string name="title_activity_audio">AudioActivity</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="title_activity_calc">CalcActivity</string>
+</resources>
